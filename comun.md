@@ -1,1 +1,1 @@
-#compartiendo el fichero ppal desde casa
+#compartiendo el fichero ppal desde portatil
